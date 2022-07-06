@@ -1,2 +1,2 @@
 # devweekgit.github.io
-Curriculo Marcos Brito
+Currículo Marcos Brito
