@@ -19,4 +19,4 @@ Desenvolvedor WEB MASTER - Escola DANKICODE <p></p>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BritoM063&repo=devweekgit.github.io)](https://github.com/BritoM063/devweekgit.github.io)
 
 ## Contatos
-![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-brito/)](https://www.linkedin.com/in/marcos-brito-635885b9/)
